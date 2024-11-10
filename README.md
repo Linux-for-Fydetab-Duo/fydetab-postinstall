@@ -1,0 +1,1 @@
+# fydetab-postinstall
