@@ -1,1 +1,1 @@
-# fydetab-postinstall
+# fydetabduo-post-install

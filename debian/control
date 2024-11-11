@@ -1,0 +1,20 @@
+Source: fydetabduo-post-install
+Maintainer: Rippanda12 <panda@fydeos.io>
+Section: admin
+Priority: standard
+Standards-Version: 4.6.0
+Build-Depends: debhelper (>=12~),
+               devscripts,
+               dh-exec,
+
+Package: fydetabduo-post-install
+Architecture: all
+Section: admin
+Priority: standard
+Depends: iio-sensor-proxy,
+         x11-xserver-utils,
+         xinput,
+         iwd,
+         armbian-firmware
+Description: Tweaks for the Fydetab Duo
+ Needed configuration files to make the Fydetab Duo work properly.
