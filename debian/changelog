@@ -1,3 +1,10 @@
+fydetabduo-post-install (0.0.2) bookworm; urgency=medium
+
+  [ Rippanda12 ]
+  * Fix modprobe path
+
+ -- Panda <panda@fydeos.io>  Sat, 23 Nov 2024 02:57:39 +0000
+
 fydetabduo-post-install (0.0.1) bookworm; urgency=medium
 
   [ Rippanda12 ]

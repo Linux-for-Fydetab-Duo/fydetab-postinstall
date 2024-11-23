@@ -1,0 +1,1 @@
+/usr/lib/firmware/ap6275p/nvram_AP6275P.txt
